@@ -1,2 +1,7 @@
 # Strunta i dessa filer
 *.log
+*.aux
+*.lof
+*.out
+*.toc
+*.gz
